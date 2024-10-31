@@ -21,22 +21,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/IT-System-View/Deployment-Overview---Current-State/</loc>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/IT-System-View/Deployment-Overview---Current-State-uploaded/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/Usage-Scenario/Managing-an-Asset/</loc>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/Usage-Scenario/Managing-an-Asset-uploaded/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/Usage-Scenario/Monitoring-an-Asset/</loc>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/Usage-Scenario/Monitoring-an-Asset-uploaded/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/Usage-Scenario/Optimize-an-Asset-with-AI/</loc>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Architecture/Architecture-Overview/Usage-Scenario/Optimize-an-Asset-with-AI-uploaded/</loc>
+         <lastmod>2024-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Requirement/Functional-Requirements/Asset-operations-anomaly-detection-with-actionable-insight-uploaded/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -46,12 +51,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Requirement/Functional-Requirements/Climate-risk-mitigation-recommendation-with-actionable-insight-uploaded/</loc>
+         <lastmod>2024-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Requirement/Functional-Requirements/Climate-risk-mitigation-recommendation-with-actionable-insight/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Requirement/Functional-Requirements/ESG-Goal-setting-and-tracking-uploaded/</loc>
+         <lastmod>2024-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Requirement/Functional-Requirements/ESG-Goal-setting-and-tracking/</loc>
+         <lastmod>2024-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Requirement/Functional-Requirements/Facility-Space-operations-anomaly-detection-with-actionable-insight-uploaded/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -111,12 +131,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Scope/Asset-Lifecycle-Management-System/</loc>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Scope/Business%20Challenge/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Scope/Business%20Challenge/</loc>
+         <loc>https://pages.github.ibm.com/IBM/asset-lifecycle-management-reference-architecture/Scope/Sustainability-System/</loc>
          <lastmod>2024-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
