@@ -3,12 +3,12 @@ tags:
     - AOD-Usage
 ---
 
-#  Managing an Asset
+#  Managing an Asset-uploaded
 
 
 
 
-![Managing an Asset](../../../../img/aodusagescenario_AIlHqMswpXfI_mYaE4xfnB.svg)
+![Managing an Asset-uploaded](../../../../img/aodusagescenario_AIlHqMswpXfI_F1yaWNo5v.svg)
 
 
 

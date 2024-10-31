@@ -3,12 +3,12 @@ tags:
     - AOD-Usage
 ---
 
-#  Optimize an Asset with AI
+#  Optimize an Asset with AI-uploaded
 
 
 
 
-![Optimize an Asset with AI](../../../../img/aodusagescenario_2Eiv4qmTF0uw_mYaE4xfnB.svg)
+![Optimize an Asset with AI-uploaded](../../../../img/aodusagescenario_2Eiv4qmTF0uw_F1yaWNo5v.svg)
 
 
 

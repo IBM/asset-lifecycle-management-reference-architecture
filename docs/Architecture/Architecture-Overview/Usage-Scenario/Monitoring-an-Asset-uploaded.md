@@ -3,12 +3,12 @@ tags:
     - AOD-Usage
 ---
 
-#  Monitoring an Asset
+#  Monitoring an Asset-uploaded
 
 
 
 
-![Monitoring an Asset](../../../../img/aodusagescenario_kazUCbWHx5pX_mYaE4xfnB.svg)
+![Monitoring an Asset-uploaded](../../../../img/aodusagescenario_kazUCbWHx5pX_F1yaWNo5v.svg)
 
 
 

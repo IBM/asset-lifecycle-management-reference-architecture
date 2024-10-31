@@ -8,7 +8,7 @@ tags:
 
 
 
-![Enterprise View ALM 1.0](../../../../img/aodenterprise_aNQoifN5_iZv_mYaE4xfnB.svg)
+![Enterprise View ALM 1.0](../../../../img/aodenterprise_aNQoifN5_iZv_F1yaWNo5v.svg)
 
 
 
@@ -31,15 +31,15 @@ tags:
 
 | Name | Description | Type | GenericGroup |
 | --- | --- | --- | --- |
-| Asset | <p>Asset can include machinery, equipment, buildings, vehicles, and other infrastructure that are necessary for the operation of a business or organization.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| Controls | <p>A control system uses sensors and actuators to monitor and control the operation of a system or process. Control systems can be used to automatically adjust the operation of a system based on predetermined setpoints, as well as to respond to changes in the environment or to commands from operators.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| Files | <p>Data files that are shared for the regular business to run with external parties e.g. Trading Partners, Regulatory &amp; Compliance Boards etc.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| IoT | <p>The Internet of Things (IoT) is a system of interconnected devices, machines, and systems communicating and exchanging data over a network without requiring human intervention. These devices may be connected through various technologies, including wireless, wired, and Bluetooth, and they can be used to gather and transmit data for various purposes, including energy management, building automation, and asset tracking.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| Lease System | <p>A lease system is a method of acquiring the use of an asset or property for a specific period in exchange for periodic payments, called rentals or leases.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| Metering System | <p>The metering system is a system of meters that provides data on energy use, energy demand, or other performance characteristics of a building system, subsystem, or equipment. Building Management</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| Network Equipment | <p>Network equipment refers to the hardware and software that is used to connect devices and systems to a network, such as a local area network (LAN) or a wide area network (WAN). Network equipment includes devices such as routers, switches, hubs, and modems, as well as cables and other connectivity devices.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| Sensors | <p>A sensor is a device that provides a usable output in response to a specified physical input. Sensors are often used to detect and measure environmental parameters such as temperature, humidity, air quality, and occupancy.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
-| Spreadsheets | <p>A physical layer spreadsheet contains transactional and interval data of asset assets in the facility.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Asset-uploaded | <p>Asset can include machinery, equipment, buildings, vehicles, and other infrastructure that are necessary for the operation of a business or organization.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Controls-uploaded | <p>A control system uses sensors and actuators to monitor and control the operation of a system or process. Control systems can be used to automatically adjust the operation of a system based on predetermined setpoints, as well as to respond to changes in the environment or to commands from operators.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Files-uploaded | <p>Data files that are shared for the regular business to run with external parties e.g. Trading Partners, Regulatory &amp; Compliance Boards etc.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| IoT-uploaded | <p>The Internet of Things (IoT) is a system of interconnected devices, machines, and systems communicating and exchanging data over a network without requiring human intervention. These devices may be connected through various technologies, including wireless, wired, and Bluetooth, and they can be used to gather and transmit data for various purposes, including energy management, building automation, and asset tracking.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Lease System-uploaded | <p>A lease system is a method of acquiring the use of an asset or property for a specific period in exchange for periodic payments, called rentals or leases.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Metering System-uploaded | <p>The metering system is a system of meters that provides data on energy use, energy demand, or other performance characteristics of a building system, subsystem, or equipment. Building Management</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Network Equipment-uploaded | <p>Network equipment refers to the hardware and software that is used to connect devices and systems to a network, such as a local area network (LAN) or a wide area network (WAN). Network equipment includes devices such as routers, switches, hubs, and modems, as well as cables and other connectivity devices.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Sensors-uploaded | <p>A sensor is a device that provides a usable output in response to a specified physical input. Sensors are often used to detect and measure environmental parameters such as temperature, humidity, air quality, and occupancy.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
+| Spreadsheets-uploaded | <p>A physical layer spreadsheet contains transactional and interval data of asset assets in the facility.</p> | IT System | <div><strong>SubSystem,Physical</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Physical.</div> |
 
 
 
@@ -68,13 +68,13 @@ tags:
 
 
 <details markdown=1>
-<summary markdown="span">Accelerate Decarbonization</summary>
+<summary markdown="span">Accelerate Decarbonization-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Accelerate Decarbonization</td>
+        <td>Accelerate Decarbonization-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -82,20 +82,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Advancing Net Zero</summary>
+<summary markdown="span">Advancing Net Zero-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Advancing Net Zero</td>
+        <td>Advancing Net Zero-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -103,20 +103,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">AI Assistant</summary>
+<summary markdown="span">AI Assistant-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>AI Assistant</td>
+        <td>AI Assistant-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -131,13 +131,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">AI Broker</summary>
+<summary markdown="span">AI Broker-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>AI Broker</td>
+        <td>AI Broker-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -148,13 +148,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Canonical Model</summary>
+<summary markdown="span">Canonical Model-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Canonical Model</td>
+        <td>Canonical Model-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -165,13 +165,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">CDP</summary>
+<summary markdown="span">CDP-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>CDP</td>
+        <td>CDP-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -182,13 +182,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Climate Risk Map</summary>
+<summary markdown="span">Climate Risk Map-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Climate Risk Map</td>
+        <td>Climate Risk Map-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -200,24 +200,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>Environmental Intelligence Suite (EIS)</div></td>
+        <td><div>Environmental Intelligence Suite (EIS)-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Computer Vision</summary>
+<summary markdown="span">Computer Vision-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Computer Vision</td>
+        <td>Computer Vision-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -228,13 +228,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Connector</summary>
+<summary markdown="span">Connector-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Connector</td>
+        <td>Connector-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -242,20 +242,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>AM 1 - Asset operations anomaly detection with actionable insight</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Data Model</summary>
+<summary markdown="span">Data Model-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Data Model</td>
+        <td>Data Model-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -263,20 +263,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>AM 1 - Asset operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Dow Jones Sustainability Index</summary>
+<summary markdown="span">Dow Jones Sustainability Index-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Dow Jones Sustainability Index</td>
+        <td>Dow Jones Sustainability Index-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -287,13 +287,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Edge</summary>
+<summary markdown="span">Edge-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Edge</td>
+        <td>Edge-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -304,13 +304,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">EDI</summary>
+<summary markdown="span">EDI-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>EDI</td>
+        <td>EDI-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -321,13 +321,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Efficiency Finder</summary>
+<summary markdown="span">Efficiency Finder-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Efficiency Finder</td>
+        <td>Efficiency Finder-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -339,24 +339,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>Maximo Application Suite</div><div>Maximo Application Suite - Monitor</div></td>
+        <td><div>Maximo Application Suite - Monitor-uploaded</div><div>Maximo Application Suite-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Environmental Data</summary>
+<summary markdown="span">Environmental Data-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Environmental Data</td>
+        <td>Environmental Data-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -368,24 +368,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>Environmental Intelligence Suite (EIS)</div></td>
+        <td><div>Environmental Intelligence Suite (EIS)-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">ERP</summary>
+<summary markdown="span">ERP-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>ERP</td>
+        <td>ERP-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -397,20 +397,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">ESG Reporting Frameworks</summary>
+<summary markdown="span">ESG Reporting Frameworks-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>ESG Reporting Frameworks</td>
+        <td>ESG Reporting Frameworks-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -422,24 +422,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>enVizi (SaaS)</div></td>
+        <td><div>enVizi (SaaS)-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">External Events</summary>
+<summary markdown="span">External Events-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>External Events</td>
+        <td>External Events-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -450,13 +450,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Financials</summary>
+<summary markdown="span">Financials-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Financials</td>
+        <td>Financials-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -464,20 +464,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Geospatial Analytics</summary>
+<summary markdown="span">Geospatial Analytics-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Geospatial Analytics</td>
+        <td>Geospatial Analytics-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -489,24 +489,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div></td>
+        <td><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>Environmental Intelligence Suite (EIS)</div></td>
+        <td><div>Environmental Intelligence Suite (EIS)-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">GHG Protocol</summary>
+<summary markdown="span">GHG Protocol-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>GHG Protocol</td>
+        <td>GHG Protocol-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -514,20 +514,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>AM 1 - Asset operations anomaly detection with actionable insight</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Green Leases</summary>
+<summary markdown="span">Green Leases-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Green Leases</td>
+        <td>Green Leases-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -539,24 +539,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>TRIRIGA Application Suite - Managed Services</div><div>TRIRIGA application suite</div><div>TRIRIGA Application Suite - Lease</div></td>
+        <td><div>TRIRIGA Application Suite - Lease-uploaded</div><div>TRIRIGA application suite-uploaded</div><div>TRIRIGA Application Suite - Managed Services-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Intelligent Maintenance</summary>
+<summary markdown="span">Intelligent Maintenance-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Intelligent Maintenance</td>
+        <td>Intelligent Maintenance-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -568,24 +568,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>AM 1 - Asset operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>Maximo Application Suite - Managed Services</div></td>
+        <td><div>Maximo Application Suite - Managed Services-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Large Language Model</summary>
+<summary markdown="span">Large Language Model-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Large Language Model</td>
+        <td>Large Language Model-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -596,13 +596,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Locations</summary>
+<summary markdown="span">Locations-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Locations</td>
+        <td>Locations-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -610,20 +610,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Machine Learning</summary>
+<summary markdown="span">Machine Learning-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Machine Learning</td>
+        <td>Machine Learning-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -638,13 +638,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Model Catalog</summary>
+<summary markdown="span">Model Catalog-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Model Catalog</td>
+        <td>Model Catalog-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -655,13 +655,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">NPi</summary>
+<summary markdown="span">NPi-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>NPi</td>
+        <td>NPi-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -672,13 +672,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Pattern Detection</summary>
+<summary markdown="span">Pattern Detection-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Pattern Detection</td>
+        <td>Pattern Detection-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -686,20 +686,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>AM 1 - Asset operations anomaly detection with actionable insight</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Prediction</summary>
+<summary markdown="span">Prediction-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Prediction</td>
+        <td>Prediction-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -710,13 +710,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Processing Rules</summary>
+<summary markdown="span">Processing Rules-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Processing Rules</td>
+        <td>Processing Rules-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -724,20 +724,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Protocol Adapters</summary>
+<summary markdown="span">Protocol Adapters-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Protocol Adapters</td>
+        <td>Protocol Adapters-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -748,13 +748,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">RE 100</summary>
+<summary markdown="span">RE 100-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>RE 100</td>
+        <td>RE 100-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -765,13 +765,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">REST API</summary>
+<summary markdown="span">REST API-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>REST API</td>
+        <td>REST API-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -779,20 +779,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>AM 1 - Asset operations anomaly detection with actionable insight</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">SASB</summary>
+<summary markdown="span">SASB-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>SASB</td>
+        <td>SASB-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -800,20 +800,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Science Based Targets</summary>
+<summary markdown="span">Science Based Targets-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Science Based Targets</td>
+        <td>Science Based Targets-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -821,20 +821,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Scope 1, 2 GHG Accounting + Reporting</summary>
+<summary markdown="span">Scope 1, 2 GHG Accounting + Reporting-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Scope 1, 2 GHG Accounting + Reporting</td>
+        <td>Scope 1, 2 GHG Accounting + Reporting-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -842,20 +842,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>AM 1 - Asset operations anomaly detection with actionable insight</div><div>CR 1 - Climate risk mitigation recommendation with actionable insight</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div><div>CR 1-uploaded - Climate risk mitigation recommendation with actionable insight-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Scope 3 GHG Accounting + Reporting</summary>
+<summary markdown="span">Scope 3 GHG Accounting + Reporting-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Scope 3 GHG Accounting + Reporting</td>
+        <td>Scope 3 GHG Accounting + Reporting-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -863,20 +863,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Storage</summary>
+<summary markdown="span">Storage-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Storage</td>
+        <td>Storage-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -884,20 +884,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>AM 1 - Asset operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>AM 1-uploaded - Asset operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Sustainability Program Tracking</summary>
+<summary markdown="span">Sustainability Program Tracking-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Sustainability Program Tracking</td>
+        <td>Sustainability Program Tracking-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -905,20 +905,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Sustainable Health</summary>
+<summary markdown="span">Sustainable Health-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Sustainable Health</td>
+        <td>Sustainable Health-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -930,20 +930,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>Maximo Application Suite</div><div>Maximo Application Suite - Health</div><div>Maximo Application Suite - Managed Services</div></td>
+        <td><div>Maximo Application Suite - Health-uploaded</div><div>Maximo Application Suite - Managed Services-uploaded</div><div>Maximo Application Suite-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Sustainable Projects</summary>
+<summary markdown="span">Sustainable Projects-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Sustainable Projects</td>
+        <td>Sustainable Projects-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -955,24 +955,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>TRIRIGA application suite</div><div>TRIRIGA Application Suite - Projects</div></td>
+        <td><div>TRIRIGA Application Suite - Projects-uploaded</div><div>TRIRIGA application suite-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Sustainable Space</summary>
+<summary markdown="span">Sustainable Space-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Sustainable Space</td>
+        <td>Sustainable Space-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -984,24 +984,24 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>FM 1 - Facility Space operations anomaly detection with actionable insight</div></td>
+        <td><div>FM 1-uploaded - Facility Space operations anomaly detection with actionable insight-uploaded</div></td>
     </tr>
     <tr>
         <td> <strong>Implementation</strong> </td>
-        <td><div>TRIRIGA application suite</div><div>TRIRIGA Application Suite - Projects</div></td>
+        <td><div>TRIRIGA application suite-uploaded</div><div>TRIRIGA Application Suite - Projects-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">TCFD</summary>
+<summary markdown="span">TCFD-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>TCFD</td>
+        <td>TCFD-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -1009,20 +1009,20 @@ tags:
     </tr>
     <tr>
         <td> <strong>Functional Requirement</strong> </td>
-        <td><div>ESG 1 - ESG Goal setting and tracking</div></td>
+        <td><div>ESG 1-uploaded - ESG Goal setting and tracking-uploaded</div></td>
     </tr>
 </table>
 </details>
     
 
 <details markdown=1>
-<summary markdown="span">Web forms</summary>
+<summary markdown="span">Web forms-uploaded</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Web forms</td>
+        <td>Web forms-uploaded</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
