@@ -7,7 +7,7 @@ tags:
 
 
 
-![Business Use Cases](../../../../img/usecasediagram_51bAukq0tUQu_XMlW1WnTe.svg)
+![Business Use Cases](../../../../img/usecasediagram_51bAukq0tUQu_mYaE4xfnB.svg)
 
 
 
